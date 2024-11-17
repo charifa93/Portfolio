@@ -367,6 +367,14 @@ section{
     color: #1A1A1A;
 }
 
+#project2{
+    background-image: url(./MenuGIF.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
 
 .services-box i{
     font-size: 7rem;
